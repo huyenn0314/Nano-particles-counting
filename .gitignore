@@ -1,0 +1,10 @@
+# ignore ALL .log files
+*.log
+*.mat
+
+# ignore ALL files in ANY directory named temp
+ground_truth/
+out_wein/
+output_v20/
+output_v20_png/
+vis/
